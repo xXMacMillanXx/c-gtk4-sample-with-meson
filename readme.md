@@ -1,5 +1,13 @@
 # C with GTK-4 and Meson
 
+## Dependencies
+
+```bash
+# depending on your distro
+dnf install gtk4
+dnf install gtk4-devel
+```
+
 ## Build
 
 ```bash
